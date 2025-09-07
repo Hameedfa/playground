@@ -7,7 +7,7 @@ Hier teste ich verschiedene Python-Skripte, Datenanalysen und kleine Tools.
 - `JobSpy-main/` – Experimente mit Job-Scraping
 - `articles.json` – Beispiel-Daten aus der Tagesschau-API
 - `jobmarket_analysis.ipynb` – Notebook zur Analyse von Stellenanzeigen
-- `scrape.ipynb` – erste Scraping-Versuche
+- `scrape.ipynb` – Scraping-Versuche
 - `Stempel.py` – Testskript für PDF-Stempel
 
 ## Anforderungen
